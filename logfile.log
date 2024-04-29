@@ -1,0 +1,469 @@
+2024-04-24 23:04:59,937 :INFO : test_e2e :Selecting device
+2024-04-24 23:05:07,124 :INFO : test_e2e :Selecting country
+2024-04-24 23:05:16,518 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-24 23:13:07,533 :INFO : test_e2e :Selecting device
+2024-04-24 23:13:14,876 :INFO : test_e2e :Selecting country
+2024-04-24 23:13:24,143 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-24 23:13:43,981 :INFO : test_form :Reached Homepage
+2024-04-24 23:13:44,403 :INFO : test_form :Entered Firstname: Rahul
+2024-04-24 23:13:46,719 :INFO : test_form :Entered Email: rk@gmail.com
+2024-04-24 23:13:47,053 :INFO : test_form :Entered Password
+2024-04-24 23:13:47,264 :INFO : test_form :Checkbox clicked
+2024-04-24 23:13:50,014 :INFO : test_form :Selecting Option
+2024-04-24 23:13:50,269 :INFO : test_form :Clicking Submit
+2024-04-24 23:13:50,370 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-24 23:13:52,414 :INFO : test_form :Reached Homepage
+2024-04-24 23:13:52,414 :INFO : test_form :Reached Homepage
+2024-04-24 23:13:52,657 :INFO : test_form :Entered Firstname: Nikita
+2024-04-24 23:13:52,657 :INFO : test_form :Entered Firstname: Nikita
+2024-04-24 23:13:54,960 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-24 23:13:54,960 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-24 23:13:55,257 :INFO : test_form :Entered Password
+2024-04-24 23:13:55,257 :INFO : test_form :Entered Password
+2024-04-24 23:13:55,422 :INFO : test_form :Checkbox clicked
+2024-04-24 23:13:55,422 :INFO : test_form :Checkbox clicked
+2024-04-24 23:13:57,563 :INFO : test_form :Selecting Option
+2024-04-24 23:13:57,563 :INFO : test_form :Selecting Option
+2024-04-24 23:13:57,721 :INFO : test_form :Clicking Submit
+2024-04-24 23:13:57,721 :INFO : test_form :Clicking Submit
+2024-04-24 23:13:57,779 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-24 23:13:57,779 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-24 23:20:59,744 :INFO : test_e2e :Selecting device
+2024-04-24 23:21:06,275 :INFO : test_e2e :Selecting country
+2024-04-24 23:21:14,928 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-24 23:21:32,013 :INFO : test_form :Reached Homepage
+2024-04-24 23:21:32,210 :INFO : test_form :Entered Firstname: Rahul
+2024-04-24 23:21:34,397 :INFO : test_form :Entered Email: rk@gmail.com
+2024-04-24 23:21:34,555 :INFO : test_form :Entered Password
+2024-04-24 23:21:34,658 :INFO : test_form :Checkbox clicked
+2024-04-24 23:21:36,845 :INFO : test_form :Selecting Option
+2024-04-24 23:21:36,943 :INFO : test_form :Clicking Submit
+2024-04-24 23:21:36,983 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-24 23:21:39,007 :INFO : test_form :Reached Homepage
+2024-04-24 23:21:39,007 :INFO : test_form :Reached Homepage
+2024-04-24 23:21:39,159 :INFO : test_form :Entered Firstname: Nikita
+2024-04-24 23:21:39,159 :INFO : test_form :Entered Firstname: Nikita
+2024-04-24 23:21:41,287 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-24 23:21:41,287 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-24 23:21:41,415 :INFO : test_form :Entered Password
+2024-04-24 23:21:41,415 :INFO : test_form :Entered Password
+2024-04-24 23:21:41,505 :INFO : test_form :Checkbox clicked
+2024-04-24 23:21:41,505 :INFO : test_form :Checkbox clicked
+2024-04-24 23:21:43,604 :INFO : test_form :Selecting Option
+2024-04-24 23:21:43,604 :INFO : test_form :Selecting Option
+2024-04-24 23:21:43,703 :INFO : test_form :Clicking Submit
+2024-04-24 23:21:43,703 :INFO : test_form :Clicking Submit
+2024-04-24 23:21:43,740 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-24 23:21:43,740 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-24 23:37:59,075 :INFO : test_e2e :Selecting device
+2024-04-24 23:38:06,026 :INFO : test_e2e :Selecting country
+2024-04-24 23:38:15,034 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-24 23:38:31,990 :INFO : test_form :Reached Homepage
+2024-04-24 23:38:32,158 :INFO : test_form :Entered Firstname: Rahul
+2024-04-24 23:38:34,491 :INFO : test_form :Entered Email: rk@gmail.com
+2024-04-24 23:38:34,844 :INFO : test_form :Entered Password
+2024-04-24 23:38:35,041 :INFO : test_form :Checkbox clicked
+2024-04-24 23:38:37,355 :INFO : test_form :Selecting Option
+2024-04-24 23:38:37,474 :INFO : test_form :Clicking Submit
+2024-04-24 23:38:37,515 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-24 23:38:39,563 :INFO : test_form :Reached Homepage
+2024-04-24 23:38:39,563 :INFO : test_form :Reached Homepage
+2024-04-24 23:38:39,823 :INFO : test_form :Entered Firstname: Nikita
+2024-04-24 23:38:39,823 :INFO : test_form :Entered Firstname: Nikita
+2024-04-24 23:38:42,181 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-24 23:38:42,181 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-24 23:38:42,525 :INFO : test_form :Entered Password
+2024-04-24 23:38:42,525 :INFO : test_form :Entered Password
+2024-04-24 23:38:42,702 :INFO : test_form :Checkbox clicked
+2024-04-24 23:38:42,702 :INFO : test_form :Checkbox clicked
+2024-04-24 23:38:44,855 :INFO : test_form :Selecting Option
+2024-04-24 23:38:44,855 :INFO : test_form :Selecting Option
+2024-04-24 23:38:44,998 :INFO : test_form :Clicking Submit
+2024-04-24 23:38:44,998 :INFO : test_form :Clicking Submit
+2024-04-24 23:38:45,055 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-24 23:38:45,055 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-24 23:41:09,159 :INFO : test_e2e :Selecting device
+2024-04-24 23:41:15,988 :INFO : test_e2e :Selecting country
+2024-04-24 23:41:25,076 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-24 23:41:42,553 :INFO : test_form :Reached Homepage
+2024-04-24 23:41:42,735 :INFO : test_form :Entered Firstname: Rahul
+2024-04-24 23:41:45,064 :INFO : test_form :Entered Email: rk@gmail.com
+2024-04-24 23:41:45,436 :INFO : test_form :Entered Password
+2024-04-24 23:41:45,632 :INFO : test_form :Checkbox clicked
+2024-04-24 23:41:47,939 :INFO : test_form :Selecting Option
+2024-04-24 23:41:48,136 :INFO : test_form :Clicking Submit
+2024-04-24 23:41:48,196 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-24 23:41:50,255 :INFO : test_form :Reached Homepage
+2024-04-24 23:41:50,255 :INFO : test_form :Reached Homepage
+2024-04-24 23:41:50,507 :INFO : test_form :Entered Firstname: Nikita
+2024-04-24 23:41:50,507 :INFO : test_form :Entered Firstname: Nikita
+2024-04-24 23:41:52,854 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-24 23:41:52,854 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-24 23:41:53,191 :INFO : test_form :Entered Password
+2024-04-24 23:41:53,191 :INFO : test_form :Entered Password
+2024-04-24 23:41:53,352 :INFO : test_form :Checkbox clicked
+2024-04-24 23:41:53,352 :INFO : test_form :Checkbox clicked
+2024-04-24 23:41:55,513 :INFO : test_form :Selecting Option
+2024-04-24 23:41:55,513 :INFO : test_form :Selecting Option
+2024-04-24 23:41:55,671 :INFO : test_form :Clicking Submit
+2024-04-24 23:41:55,671 :INFO : test_form :Clicking Submit
+2024-04-24 23:41:55,732 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-24 23:41:55,732 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-24 23:43:41,742 :INFO : test_e2e :Selecting device
+2024-04-24 23:43:48,357 :INFO : test_e2e :Selecting country
+2024-04-24 23:43:57,424 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-24 23:44:15,287 :INFO : test_form :Reached Homepage
+2024-04-24 23:44:15,531 :INFO : test_form :Entered Firstname: Rahul
+2024-04-24 23:44:17,862 :INFO : test_form :Entered Email: rk@gmail.com
+2024-04-24 23:44:18,223 :INFO : test_form :Entered Password
+2024-04-24 23:44:18,421 :INFO : test_form :Checkbox clicked
+2024-04-24 23:44:20,734 :INFO : test_form :Selecting Option
+2024-04-24 23:44:20,906 :INFO : test_form :Clicking Submit
+2024-04-24 23:44:20,941 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-24 23:44:23,178 :INFO : test_form :Reached Homepage
+2024-04-24 23:44:23,178 :INFO : test_form :Reached Homepage
+2024-04-24 23:44:23,340 :INFO : test_form :Entered Firstname: Nikita
+2024-04-24 23:44:23,340 :INFO : test_form :Entered Firstname: Nikita
+2024-04-24 23:44:25,663 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-24 23:44:25,663 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-24 23:44:26,008 :INFO : test_form :Entered Password
+2024-04-24 23:44:26,008 :INFO : test_form :Entered Password
+2024-04-24 23:44:26,160 :INFO : test_form :Checkbox clicked
+2024-04-24 23:44:26,160 :INFO : test_form :Checkbox clicked
+2024-04-24 23:44:28,406 :INFO : test_form :Selecting Option
+2024-04-24 23:44:28,406 :INFO : test_form :Selecting Option
+2024-04-24 23:44:28,566 :INFO : test_form :Clicking Submit
+2024-04-24 23:44:28,566 :INFO : test_form :Clicking Submit
+2024-04-24 23:44:28,626 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-24 23:44:28,626 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-25 22:20:55,633 :INFO : test_e2e :Selecting device
+2024-04-25 22:21:02,454 :INFO : test_e2e :Selecting country
+2024-04-25 22:21:11,417 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-25 22:21:28,924 :INFO : test_form :Reached Homepage
+2024-04-25 22:21:29,097 :INFO : test_form :Entered Firstname: Rahul
+2024-04-25 22:21:31,391 :INFO : test_form :Entered Email: rk@gmail.com
+2024-04-25 22:21:31,682 :INFO : test_form :Entered Password
+2024-04-25 22:21:31,780 :INFO : test_form :Checkbox clicked
+2024-04-25 22:21:34,331 :INFO : test_form :Selecting Option
+2024-04-25 22:21:34,513 :INFO : test_form :Clicking Submit
+2024-04-25 22:21:34,587 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-25 22:21:36,844 :INFO : test_form :Reached Homepage
+2024-04-25 22:21:36,844 :INFO : test_form :Reached Homepage
+2024-04-25 22:21:37,011 :INFO : test_form :Entered Firstname: Nikita
+2024-04-25 22:21:37,011 :INFO : test_form :Entered Firstname: Nikita
+2024-04-25 22:21:39,330 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-25 22:21:39,330 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-25 22:21:39,675 :INFO : test_form :Entered Password
+2024-04-25 22:21:39,675 :INFO : test_form :Entered Password
+2024-04-25 22:21:39,849 :INFO : test_form :Checkbox clicked
+2024-04-25 22:21:39,849 :INFO : test_form :Checkbox clicked
+2024-04-25 22:21:42,085 :INFO : test_form :Selecting Option
+2024-04-25 22:21:42,085 :INFO : test_form :Selecting Option
+2024-04-25 22:21:42,254 :INFO : test_form :Clicking Submit
+2024-04-25 22:21:42,254 :INFO : test_form :Clicking Submit
+2024-04-25 22:21:42,313 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-25 22:21:42,313 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-25 22:32:11,017 :INFO : test_e2e :Selecting device
+2024-04-25 22:32:17,539 :INFO : test_e2e :Selecting country
+2024-04-25 22:32:26,453 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-25 22:32:43,810 :INFO : test_form :Reached Homepage
+2024-04-25 22:32:44,146 :INFO : test_form :Entered Firstname: Rahul
+2024-04-25 22:32:46,492 :INFO : test_form :Entered Email: rk@gmail.com
+2024-04-25 22:32:46,855 :INFO : test_form :Entered Password
+2024-04-25 22:32:47,049 :INFO : test_form :Checkbox clicked
+2024-04-25 22:32:49,358 :INFO : test_form :Selecting Option
+2024-04-25 22:32:49,515 :INFO : test_form :Clicking Submit
+2024-04-25 22:32:49,550 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-25 22:32:51,955 :INFO : test_form :Reached Homepage
+2024-04-25 22:32:51,955 :INFO : test_form :Reached Homepage
+2024-04-25 22:32:52,224 :INFO : test_form :Entered Firstname: Nikita
+2024-04-25 22:32:52,224 :INFO : test_form :Entered Firstname: Nikita
+2024-04-25 22:32:54,564 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-25 22:32:54,564 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-25 22:32:54,889 :INFO : test_form :Entered Password
+2024-04-25 22:32:54,889 :INFO : test_form :Entered Password
+2024-04-25 22:32:55,060 :INFO : test_form :Checkbox clicked
+2024-04-25 22:32:55,060 :INFO : test_form :Checkbox clicked
+2024-04-25 22:32:57,300 :INFO : test_form :Selecting Option
+2024-04-25 22:32:57,300 :INFO : test_form :Selecting Option
+2024-04-25 22:32:57,462 :INFO : test_form :Clicking Submit
+2024-04-25 22:32:57,462 :INFO : test_form :Clicking Submit
+2024-04-25 22:32:57,523 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-25 22:32:57,523 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-25 23:10:15,015 :INFO : test_e2e :Selecting device
+2024-04-25 23:10:21,977 :INFO : test_e2e :Selecting country
+2024-04-25 23:10:30,925 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-25 23:10:48,739 :INFO : test_form :Reached Homepage
+2024-04-25 23:10:48,973 :INFO : test_form :Entered Firstname: Rahul
+2024-04-25 23:10:51,341 :INFO : test_form :Entered Email: rk@gmail.com
+2024-04-25 23:10:51,644 :INFO : test_form :Entered Password
+2024-04-25 23:10:51,720 :INFO : test_form :Checkbox clicked
+2024-04-25 23:10:53,934 :INFO : test_form :Selecting Option
+2024-04-25 23:10:54,018 :INFO : test_form :Clicking Submit
+2024-04-25 23:10:54,053 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-25 23:10:56,268 :INFO : test_form :Reached Homepage
+2024-04-25 23:10:56,268 :INFO : test_form :Reached Homepage
+2024-04-25 23:10:56,428 :INFO : test_form :Entered Firstname: Nikita
+2024-04-25 23:10:56,428 :INFO : test_form :Entered Firstname: Nikita
+2024-04-25 23:10:58,697 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-25 23:10:58,697 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-25 23:10:58,839 :INFO : test_form :Entered Password
+2024-04-25 23:10:58,839 :INFO : test_form :Entered Password
+2024-04-25 23:10:58,917 :INFO : test_form :Checkbox clicked
+2024-04-25 23:10:58,917 :INFO : test_form :Checkbox clicked
+2024-04-25 23:11:01,160 :INFO : test_form :Selecting Option
+2024-04-25 23:11:01,160 :INFO : test_form :Selecting Option
+2024-04-25 23:11:01,349 :INFO : test_form :Clicking Submit
+2024-04-25 23:11:01,349 :INFO : test_form :Clicking Submit
+2024-04-25 23:11:01,418 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-25 23:11:01,418 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-25 23:42:06,518 :INFO : test_e2e :Selecting device
+2024-04-25 23:42:13,543 :INFO : test_e2e :Selecting country
+2024-04-25 23:42:22,686 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-25 23:42:43,172 :INFO : test_form :Reached Homepage
+2024-04-25 23:42:43,546 :INFO : test_form :Entered Firstname: Rahul
+2024-04-25 23:42:45,904 :INFO : test_form :Entered Email: rk@gmail.com
+2024-04-25 23:42:46,245 :INFO : test_form :Entered Password
+2024-04-25 23:42:46,453 :INFO : test_form :Checkbox clicked
+2024-04-25 23:42:48,975 :INFO : test_form :Selecting Option
+2024-04-25 23:42:49,218 :INFO : test_form :Clicking Submit
+2024-04-25 23:42:49,311 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-25 23:42:51,727 :INFO : test_form :Reached Homepage
+2024-04-25 23:42:51,727 :INFO : test_form :Reached Homepage
+2024-04-25 23:42:51,979 :INFO : test_form :Entered Firstname: Nikita
+2024-04-25 23:42:51,979 :INFO : test_form :Entered Firstname: Nikita
+2024-04-25 23:42:54,295 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-25 23:42:54,295 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-25 23:42:54,611 :INFO : test_form :Entered Password
+2024-04-25 23:42:54,611 :INFO : test_form :Entered Password
+2024-04-25 23:42:54,762 :INFO : test_form :Checkbox clicked
+2024-04-25 23:42:54,762 :INFO : test_form :Checkbox clicked
+2024-04-25 23:42:57,015 :INFO : test_form :Selecting Option
+2024-04-25 23:42:57,015 :INFO : test_form :Selecting Option
+2024-04-25 23:42:57,196 :INFO : test_form :Clicking Submit
+2024-04-25 23:42:57,196 :INFO : test_form :Clicking Submit
+2024-04-25 23:42:57,260 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-25 23:42:57,260 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 01:00:43,231 :INFO : test_e2e :Selecting device
+2024-04-26 01:00:50,410 :INFO : test_e2e :Selecting country
+2024-04-26 01:00:59,547 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-26 01:01:19,703 :INFO : test_form :Reached Homepage
+2024-04-26 01:01:20,128 :INFO : test_form :Entered Firstname: Rahul
+2024-04-26 01:01:22,499 :INFO : test_form :Entered Email: rk@gmail.com
+2024-04-26 01:01:22,902 :INFO : test_form :Entered Password
+2024-04-26 01:01:23,103 :INFO : test_form :Checkbox clicked
+2024-04-26 01:01:25,444 :INFO : test_form :Selecting Option
+2024-04-26 01:01:25,664 :INFO : test_form :Clicking Submit
+2024-04-26 01:01:25,763 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 01:01:28,172 :INFO : test_form :Reached Homepage
+2024-04-26 01:01:28,172 :INFO : test_form :Reached Homepage
+2024-04-26 01:01:28,470 :INFO : test_form :Entered Firstname: Nikita
+2024-04-26 01:01:28,470 :INFO : test_form :Entered Firstname: Nikita
+2024-04-26 01:01:30,783 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-26 01:01:30,783 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-26 01:01:31,089 :INFO : test_form :Entered Password
+2024-04-26 01:01:31,089 :INFO : test_form :Entered Password
+2024-04-26 01:01:31,249 :INFO : test_form :Checkbox clicked
+2024-04-26 01:01:31,249 :INFO : test_form :Checkbox clicked
+2024-04-26 01:01:33,506 :INFO : test_form :Selecting Option
+2024-04-26 01:01:33,506 :INFO : test_form :Selecting Option
+2024-04-26 01:01:33,687 :INFO : test_form :Clicking Submit
+2024-04-26 01:01:33,687 :INFO : test_form :Clicking Submit
+2024-04-26 01:01:33,752 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 01:01:33,752 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 01:03:43,741 :INFO : test_e2e :Selecting device
+2024-04-26 01:03:50,756 :INFO : test_e2e :Selecting country
+2024-04-26 01:03:59,895 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-26 01:04:21,160 :INFO : test_form :Reached Homepage
+2024-04-26 01:04:21,544 :INFO : test_form :Entered Firstname: Rahul
+2024-04-26 01:04:23,906 :INFO : test_form :Entered Email: rk@gmail.com
+2024-04-26 01:04:24,230 :INFO : test_form :Entered Password
+2024-04-26 01:04:24,435 :INFO : test_form :Checkbox clicked
+2024-04-26 01:04:26,777 :INFO : test_form :Selecting Option
+2024-04-26 01:04:27,010 :INFO : test_form :Clicking Submit
+2024-04-26 01:04:27,096 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 01:04:29,498 :INFO : test_form :Reached Homepage
+2024-04-26 01:04:29,498 :INFO : test_form :Reached Homepage
+2024-04-26 01:04:29,767 :INFO : test_form :Entered Firstname: Nikita
+2024-04-26 01:04:29,767 :INFO : test_form :Entered Firstname: Nikita
+2024-04-26 01:04:32,074 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-26 01:04:32,074 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-26 01:04:32,363 :INFO : test_form :Entered Password
+2024-04-26 01:04:32,363 :INFO : test_form :Entered Password
+2024-04-26 01:04:32,531 :INFO : test_form :Checkbox clicked
+2024-04-26 01:04:32,531 :INFO : test_form :Checkbox clicked
+2024-04-26 01:04:34,796 :INFO : test_form :Selecting Option
+2024-04-26 01:04:34,796 :INFO : test_form :Selecting Option
+2024-04-26 01:04:35,000 :INFO : test_form :Clicking Submit
+2024-04-26 01:04:35,000 :INFO : test_form :Clicking Submit
+2024-04-26 01:04:35,083 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 01:04:35,083 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 01:08:22,203 :INFO : test_e2e :Selecting device
+2024-04-26 01:08:29,219 :INFO : test_e2e :Selecting country
+2024-04-26 01:08:38,373 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-26 01:08:58,725 :INFO : test_form :Reached Homepage
+2024-04-26 01:08:59,308 :INFO : test_form :Entered Firstname: Rahul
+2024-04-26 01:09:01,656 :INFO : test_form :Entered Email: rk@gmail.com
+2024-04-26 01:09:02,027 :INFO : test_form :Entered Password
+2024-04-26 01:09:02,229 :INFO : test_form :Checkbox clicked
+2024-04-26 01:09:04,568 :INFO : test_form :Selecting Option
+2024-04-26 01:09:04,796 :INFO : test_form :Clicking Submit
+2024-04-26 01:09:04,910 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 01:09:07,316 :INFO : test_form :Reached Homepage
+2024-04-26 01:09:07,316 :INFO : test_form :Reached Homepage
+2024-04-26 01:09:07,576 :INFO : test_form :Entered Firstname: Nikita
+2024-04-26 01:09:07,576 :INFO : test_form :Entered Firstname: Nikita
+2024-04-26 01:09:09,913 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-26 01:09:09,913 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-26 01:09:10,200 :INFO : test_form :Entered Password
+2024-04-26 01:09:10,200 :INFO : test_form :Entered Password
+2024-04-26 01:09:10,356 :INFO : test_form :Checkbox clicked
+2024-04-26 01:09:10,356 :INFO : test_form :Checkbox clicked
+2024-04-26 01:09:12,623 :INFO : test_form :Selecting Option
+2024-04-26 01:09:12,623 :INFO : test_form :Selecting Option
+2024-04-26 01:09:12,840 :INFO : test_form :Clicking Submit
+2024-04-26 01:09:12,840 :INFO : test_form :Clicking Submit
+2024-04-26 01:09:12,908 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 01:09:12,908 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 21:50:16,938 :INFO : test_e2e :Selecting device
+2024-04-26 21:50:23,886 :INFO : test_e2e :Selecting country
+2024-04-26 21:50:32,996 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-26 21:50:50,147 :INFO : test_form :Reached Homepage
+2024-04-26 21:50:50,357 :INFO : test_form :Entered Firstname: Rahul
+2024-04-26 21:50:52,694 :INFO : test_form :Entered Email: rk@gmail.com
+2024-04-26 21:50:53,001 :INFO : test_form :Entered Password
+2024-04-26 21:50:53,196 :INFO : test_form :Checkbox clicked
+2024-04-26 21:50:55,760 :INFO : test_form :Selecting Option
+2024-04-26 21:50:55,869 :INFO : test_form :Clicking Submit
+2024-04-26 21:50:55,907 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 21:50:58,314 :INFO : test_form :Reached Homepage
+2024-04-26 21:50:58,314 :INFO : test_form :Reached Homepage
+2024-04-26 21:50:58,592 :INFO : test_form :Entered Firstname: Nikita
+2024-04-26 21:50:58,592 :INFO : test_form :Entered Firstname: Nikita
+2024-04-26 21:51:00,934 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-26 21:51:00,934 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-26 21:51:01,235 :INFO : test_form :Entered Password
+2024-04-26 21:51:01,235 :INFO : test_form :Entered Password
+2024-04-26 21:51:01,393 :INFO : test_form :Checkbox clicked
+2024-04-26 21:51:01,393 :INFO : test_form :Checkbox clicked
+2024-04-26 21:51:03,654 :INFO : test_form :Selecting Option
+2024-04-26 21:51:03,654 :INFO : test_form :Selecting Option
+2024-04-26 21:51:03,853 :INFO : test_form :Clicking Submit
+2024-04-26 21:51:03,853 :INFO : test_form :Clicking Submit
+2024-04-26 21:51:03,918 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 21:51:03,918 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 22:05:58,068 :INFO : test_e2e :Selecting device
+2024-04-26 22:06:05,080 :INFO : test_e2e :Selecting country
+2024-04-26 22:06:14,174 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-26 22:06:31,704 :INFO : test_form :Reached Homepage
+2024-04-26 22:06:31,892 :INFO : test_form :Entered Firstname: Rahul
+2024-04-26 22:06:34,193 :INFO : test_form :Entered Email: rk@gmail.com
+2024-04-26 22:06:34,505 :INFO : test_form :Entered Password
+2024-04-26 22:06:34,701 :INFO : test_form :Checkbox clicked
+2024-04-26 22:06:37,052 :INFO : test_form :Selecting Option
+2024-04-26 22:06:37,216 :INFO : test_form :Clicking Submit
+2024-04-26 22:06:37,291 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 22:06:39,659 :INFO : test_form :Reached Homepage
+2024-04-26 22:06:39,659 :INFO : test_form :Reached Homepage
+2024-04-26 22:06:39,932 :INFO : test_form :Entered Firstname: Nikita
+2024-04-26 22:06:39,932 :INFO : test_form :Entered Firstname: Nikita
+2024-04-26 22:06:42,294 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-26 22:06:42,294 :INFO : test_form :Entered Email: ng@gmail.com
+2024-04-26 22:06:42,610 :INFO : test_form :Entered Password
+2024-04-26 22:06:42,610 :INFO : test_form :Entered Password
+2024-04-26 22:06:42,776 :INFO : test_form :Checkbox clicked
+2024-04-26 22:06:42,776 :INFO : test_form :Checkbox clicked
+2024-04-26 22:06:45,040 :INFO : test_form :Selecting Option
+2024-04-26 22:06:45,040 :INFO : test_form :Selecting Option
+2024-04-26 22:06:45,207 :INFO : test_form :Clicking Submit
+2024-04-26 22:06:45,207 :INFO : test_form :Clicking Submit
+2024-04-26 22:06:45,268 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 22:06:45,268 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 23:15:11,719 :INFO : test_e2e :Selecting device
+2024-04-26 23:15:18,754 :INFO : test_e2e :Selecting country
+2024-04-26 23:15:27,903 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-26 23:15:47,472 :INFO : test_form :Reached Homepage
+2024-04-26 23:18:27,453 :INFO : test_e2e :Selecting device
+2024-04-26 23:18:34,593 :INFO : test_e2e :Selecting country
+2024-04-26 23:18:43,754 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-26 23:19:04,071 :INFO : test_form :Reached Homepage
+2024-04-26 23:19:04,586 :INFO : test_form :Entered Firstname: Karan
+2024-04-26 23:19:06,949 :INFO : test_form :Entered Email: kg@gmail.com
+2024-04-26 23:19:07,275 :INFO : test_form :Entered Password
+2024-04-26 23:19:07,477 :INFO : test_form :Checkbox clicked
+2024-04-26 23:19:10,032 :INFO : test_form :Selecting Option
+2024-04-26 23:19:10,247 :INFO : test_form :Clicking Submit
+2024-04-26 23:19:10,355 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
+2024-04-26 23:20:51,242 :INFO : test_e2e :Selecting device
+2024-04-26 23:20:58,429 :INFO : test_e2e :Selecting country
+2024-04-26 23:21:07,666 :INFO : test_e2e :Text received: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-04-26 23:21:28,582 :INFO : test_form :Reached Homepage
+2024-04-26 23:21:29,060 :INFO : test_form :Entered Firstname: Karan
+2024-04-26 23:21:31,399 :INFO : test_form :Entered Email: kg@gmail.com
+2024-04-26 23:21:31,764 :INFO : test_form :Entered Password
+2024-04-26 23:21:31,974 :INFO : test_form :Checkbox clicked
+2024-04-26 23:21:34,359 :INFO : test_form :Selecting Option
+2024-04-26 23:21:34,610 :INFO : test_form :Clicking Submit
+2024-04-26 23:21:34,702 :INFO : test_form :Text Message: ×
+Success! The Form has been submitted successfully!.
